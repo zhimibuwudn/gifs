@@ -3,9 +3,9 @@
   "updated": "2025-06-20T12:34:56Z",   // ISO-8601，方便客户端对比增量
   "categories": [
     {
-      "id": "reactions","name": "1","icon": "🐕️"},
+      "id": "dog","name": "1","icon": "🐕️"},
     {
-      "id": "memes","name": "2","icon": "🐱"
+      "id": "mao","name": "2","icon": "🐱"
     },
     {
       "id": "work","name": "办公日常","icon": "💻"
@@ -14,38 +14,38 @@
   "items": [
     {
       "id": "dog",
-      "category": "reactions",
+      "category": "dog",
       "title": "我来了",
       "gifUrl": "https://cdn.jsdelivr.net/gh/zhimibuwudn/gifs@master/gifs/dog/7fc358658edc57b2de70dd0f12447338.gif",
       "thumbUrl": "https://cdn.jsdelivr.net/gh/zhimibuwudn/gifs@master/gifs/dog/7fc358658edc57b2de70dd0f12447338.gif"
     },
     {
       "id": "dog1",
-      "category": "reactions",
+      "category": "dog",
       "title": "开饭",
       "gifUrl": "https://cdn.jsdelivr.net/gh/zhimibuwudn/gifs@master/gifs/dog/9080318b505a70b1a5d8282d199b0f16.jpg",
       "thumbUrl": "https://cdn.jsdelivr.net/gh/zhimibuwudn/gifs@master/gifs/dog/9080318b505a70b1a5d8282d199b0f16.jpg"
     },
     {
       "id": "dog2",
-      "category": "reactions",
+      "category": "dog",
       "title": "我想静静",
       "gifUrl": "https://cdn.jsdelivr.net/gh/zhimibuwudn/gifs@master/gifs/dog/t3_790af05c660244209068900845c567ed.gif",
       "thumbUrl": "https://cdn.jsdelivr.net/gh/zhimibuwudn/gifs@master/gifs/dog/t3_790af05c660244209068900845c567ed.gif"
     },
     {
       "id": "dog3",
-      "category": "reactions",
+      "category": "dog",
       "title": "不回消息",
       "gifUrl": "https://cdn.jsdelivr.net/gh/zhimibuwudn/gifs@master/gifs/dog/t3_b2970e04c84467398b0a0b4fedf85576.gif",
       "thumbUrl": "https://cdn.jsdelivr.net/gh/zhimibuwudn/gifs@master/gifs/dog/t3_b2970e04c84467398b0a0b4fedf85576.gif"
     },
     {
-      "id": "dog3",
-      "category": "reactions",
+      "id": "mao",
+      "category": "mao",
       "title": "不回消息",
-      "gifUrl": "https://cdn.jsdelivr.net/gh/zhimibuwudn/gifs@master/gifs/dog/t3_b2970e04c84467398b0a0b4fedf85576.gif",
-      "thumbUrl": "https://cdn.jsdelivr.net/gh/zhimibuwudn/gifs@master/gifs/dog/t3_b2970e04c84467398b0a0b4fedf85576.gif"
+      "gifUrl": "https://cdn.jsdelivr.net/gh/zhimibuwudn/gifs@master/gifs/mao/31bed1d794df733fc5d86849bf53a08f.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/zhimibuwudn/gifs@master/gifs/mao/31bed1d794df733fc5d86849bf53a08f.gif"
     }
   ]
 }

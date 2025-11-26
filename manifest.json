@@ -1,9 +1,9 @@
 {
   "categories": [
     {
-      "id": "reactions","name": "阿黄","icon": "😄"},
+      "id": "reactions","name": "1","icon": "🐕️"},
     {
-      "id": "memes","name": "热门梗图","icon": "🔥"
+      "id": "memes","name": "2","icon": "🐱"
     },
     {
       "id": "work","name": "办公日常","icon": "💻"
@@ -30,6 +30,13 @@
       "title": "我想静静",
       "gifUrl": "https://cdn.jsdelivr.net/gh/zhimibuwudn/gifs@master/gifs/dog/t3_790af05c660244209068900845c567ed.gif",
       "thumbUrl": "https://cdn.jsdelivr.net/gh/zhimibuwudn/gifs@master/gifs/dog/t3_790af05c660244209068900845c567ed.gif"
+    },
+    {
+      "id": "dog3",
+      "category": "reactions",
+      "title": "不回消息",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/zhimibuwudn/gifs@master/gifs/dog/t3_b2970e04c84467398b0a0b4fedf85576.gif",
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/zhimibuwudn/gifs@master/gifs/dog/t3_b2970e04c84467398b0a0b4fedf85576.gif"
     },
     {
       "id": "dog3",

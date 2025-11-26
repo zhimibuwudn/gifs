@@ -1,0 +1,49 @@
+{
+  "categories": [
+    {
+      "id": "reactions",
+      "name": "表情反应",
+      "icon": "😄"
+    },
+    {
+      "id": "memes",
+      "name": "热门梗图",
+      "icon": "🔥"
+    },
+    {
+      "id": "work",
+      "name": "办公日常",
+      "icon": "💻"
+    }
+  ],
+  "items": [
+    {
+      "id": "dog",
+      "category": "dog",
+      "title": "我来了",
+      "gifUrl": "https://gitee.com/zhang-song51/gifs/raw/master/gifs/dog/7fc358658edc57b2de70dd0f12447338.gif",
+      "thumbUrl": "https://gitee.com/zhang-song51/gifs/raw/master/gifs/dog/7fc358658edc57b2de70dd0f12447338.gif"
+    },
+    {
+      "id": "dog1",
+      "category": "dog",
+      "title": "开饭",
+      "gifUrl": "https://gitee.com/zhang-song51/gifs/raw/master/gifs/dog/9080318b505a70b1a5d8282d199b0f16.jpg",
+      "thumbUrl": "https://gitee.com/zhang-song51/gifs/raw/master/gifs/dog/9080318b505a70b1a5d8282d199b0f16.jpg"
+    },
+    {
+      "id": "dog2",
+      "category": "dog",
+      "title": "我想静静",
+      "gifUrl": "https://gitee.com/zhang-song51/gifs/raw/master/gifs/dog/t3_790af05c660244209068900845c567ed.gif",
+      "thumbUrl": "https://gitee.com/zhang-song51/gifs/raw/master/gifs/dog/t3_790af05c660244209068900845c567ed.gif"
+    },
+    {
+      "id": "dog3",
+      "category": "dog",
+      "title": "不回消息",
+      "gifUrl": "https://gitee.com/zhang-song51/gifs/raw/master/gifs/dog/t3_b2970e04c84467398b0a0b4fedf85576.gif",
+      "thumbUrl": "https://gitee.com/zhang-song51/gifs/raw/master/gifs/dog/t3_b2970e04c84467398b0a0b4fedf85576.gif"
+    }
+  ]
+}
